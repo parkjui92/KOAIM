@@ -6,6 +6,7 @@
 |---|---|---|
 | Day 1 — AI 에이전트 개념과 활용 (AI 네이티브로 일하기 · 에이전틱 엔지니어링 · 실습) | [HTML](https://parkjui92.github.io/KOAIM/Day1_AI에이전트_설계와_활용.html) | [PDF](Day1_AI에이전트_설계와_활용.pdf) |
 | Day 2 — 나만의 AI 에이전트 설계 (팀 플러그인 설치 · 업무지침 · 스킬 · 도구 연결 · 기획안 · 깃허브 · 보안) | [HTML](https://parkjui92.github.io/KOAIM/Day2_AI에이전트_설계와_활용.html) | [PDF](Day2_AI에이전트_설계와_활용.pdf) |
+| 부록 — KOAIM 업무용 API · MCP 도구 모음 (법령 · 인허가 · 해외 규제 · 논문 · 특허 · 문서 도구 30개, 복사해 쓰는 요청문 포함) | [HTML](https://parkjui92.github.io/KOAIM/API_MCP_도구모음.html) | — |
 
 HTML은 파일 하나로 열립니다(글꼴 내장 · 오프라인 동작). 조작: `← →` 이동 · `O` 목차 · `T` 밝게/어둡게 · `F` 전체화면.
 
